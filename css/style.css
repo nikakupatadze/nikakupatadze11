@@ -129,6 +129,10 @@ input{
     padding-top: 111px;
 }
 
+.input2{
+    color: #13345B;
+}
+
 .label_div1 {
     width: 541px;
     height: 91px;
@@ -136,6 +140,7 @@ input{
 
 .input3 {
     font-size: 2rem;
+    
 }
 
 .button_div {
